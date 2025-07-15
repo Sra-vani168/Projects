@@ -3,5 +3,5 @@
 #for llm model
 1.install ollama software
 2.install ollama in cmd
-3.run 3.2 version of ollama
-4.run:streamlit run llm.py
+3.run 3.2 version of ollama:ollama run llama3.2  #we can interact with model
+4.run:streamlit run llm.py # in cmd of llm.py
