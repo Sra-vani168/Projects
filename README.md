@@ -5,3 +5,5 @@
 2.install ollama in cmd
 3.run 3.2 version of ollama:ollama run llama3.2  #we can interact with model
 4.run:streamlit run llm.py # in cmd of llm.py
+#for ELT.py
+1.Install the libraries and then run-wordcloud,textblob,pymongo,install MongoDB from website
