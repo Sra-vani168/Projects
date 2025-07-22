@@ -7,3 +7,5 @@
 4.run:streamlit run llm.py # in cmd of llm.py
 #for ELT.py
 1.Install the libraries and then run-wordcloud,textblob,pymongo,install MongoDB from website
+# rest api
+1.main.py-install libraries extend postman and postcode
